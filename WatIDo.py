@@ -20,3 +20,5 @@ for activity_time in sorted(activities.keys()):
 else:
     print ('Unknown, AFK or sleeping!')
 input()
+
+#KEKW
